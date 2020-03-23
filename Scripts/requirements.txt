@@ -1,0 +1,14 @@
+asgiref==3.2.5
+comtypes==1.1.7
+Django==3.0.4
+docxtpl==0.6.3
+Jinja2==2.11.1
+lxml==4.5.0
+MarkupSafe==1.1.1
+mod-wsgi==4.7.1
+psycopg2==2.8.4
+python-docx==0.8.7
+pytz==2019.3
+pywin32==227
+six==1.14.0
+sqlparse==0.3.1
